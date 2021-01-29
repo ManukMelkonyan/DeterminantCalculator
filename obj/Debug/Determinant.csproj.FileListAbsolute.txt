@@ -1,0 +1,14 @@
+C:\Users\Vardan\source\repos\Determinant\bin\Debug\Determinant.exe.config
+C:\Users\Vardan\source\repos\Determinant\bin\Debug\Determinant.exe
+C:\Users\Vardan\source\repos\Determinant\bin\Debug\Determinant.pdb
+C:\Users\Vardan\source\repos\Determinant\obj\Debug\Determinant.csprojAssemblyReference.cache
+C:\Users\Vardan\source\repos\Determinant\obj\Debug\Determinant.csproj.CoreCompileInputs.cache
+C:\Users\Vardan\source\repos\Determinant\obj\Debug\Determinant.exe
+C:\Users\Vardan\source\repos\Determinant\obj\Debug\Determinant.pdb
+E:\Manuk\C#\Determinant\bin\Debug\Determinant.exe.config
+E:\Manuk\C#\Determinant\bin\Debug\Determinant.exe
+E:\Manuk\C#\Determinant\bin\Debug\Determinant.pdb
+E:\Manuk\C#\Determinant\obj\Debug\Determinant.csprojAssemblyReference.cache
+E:\Manuk\C#\Determinant\obj\Debug\Determinant.csproj.CoreCompileInputs.cache
+E:\Manuk\C#\Determinant\obj\Debug\Determinant.exe
+E:\Manuk\C#\Determinant\obj\Debug\Determinant.pdb
